@@ -1,0 +1,387 @@
+C:\Users\BSH\source\repos\boundball\boundball\bin\Debug\boundball.exe
+C:\Users\BSH\source\repos\boundball\boundball\bin\Debug\boundball.pdb
+C:\Users\BSH\source\repos\boundball\boundball\obj\Debug\boundball.csprojResolveAssemblyReference.cache
+C:\Users\BSH\source\repos\boundball\boundball\obj\Debug\boundball.Form1.resources
+C:\Users\BSH\source\repos\boundball\boundball\obj\Debug\boundball.Properties.Resources.resources
+C:\Users\BSH\source\repos\boundball\boundball\obj\Debug\boundball.csproj.GenerateResource.cache
+C:\Users\BSH\source\repos\boundball\boundball\obj\Debug\boundball.csproj.CoreCompileInputs.cache
+C:\Users\BSH\source\repos\boundball\boundball\obj\Debug\boundball.exe
+C:\Users\BSH\source\repos\boundball\boundball\obj\Debug\boundball.pdb
+C:\Users\BSH\Desktop\boundball\boundball\bin\Debug\boundball.exe
+C:\Users\BSH\Desktop\boundball\boundball\bin\Debug\boundball.pdb
+C:\Users\BSH\Desktop\boundball\boundball\obj\Debug\boundball.csprojResolveAssemblyReference.cache
+C:\Users\BSH\Desktop\boundball\boundball\obj\Debug\boundball.Form1.resources
+C:\Users\BSH\Desktop\boundball\boundball\obj\Debug\boundball.Properties.Resources.resources
+C:\Users\BSH\Desktop\boundball\boundball\obj\Debug\boundball.csproj.GenerateResource.cache
+C:\Users\BSH\Desktop\boundball\boundball\obj\Debug\boundball.csproj.CoreCompileInputs.cache
+C:\Users\BSH\Desktop\boundball\boundball\obj\Debug\boundball.exe
+C:\Users\BSH\Desktop\boundball\boundball\obj\Debug\boundball.pdb
+C:\Users\01\Documents\카카오톡 받은 파일\boundball\boundball\bin\Debug\boundball.exe
+C:\Users\01\Documents\카카오톡 받은 파일\boundball\boundball\bin\Debug\boundball.pdb
+C:\Users\01\Documents\카카오톡 받은 파일\boundball\boundball\obj\Debug\boundball.csprojAssemblyReference.cache
+C:\Users\01\Documents\카카오톡 받은 파일\boundball\boundball\obj\Debug\boundball.Form1.resources
+C:\Users\01\Documents\카카오톡 받은 파일\boundball\boundball\obj\Debug\boundball.Properties.Resources.resources
+C:\Users\01\Documents\카카오톡 받은 파일\boundball\boundball\obj\Debug\boundball.csproj.GenerateResource.cache
+C:\Users\01\Documents\카카오톡 받은 파일\boundball\boundball\obj\Debug\boundball.csproj.CoreCompileInputs.cache
+C:\Users\01\Documents\카카오톡 받은 파일\boundball\boundball\obj\Debug\boundball.exe
+C:\Users\01\Documents\카카오톡 받은 파일\boundball\boundball\obj\Debug\boundball.pdb
+C:\Users\BSH\Downloads\boundballv3\boundball\bin\Debug\boundball.exe
+C:\Users\BSH\Downloads\boundballv3\boundball\bin\Debug\boundball.pdb
+C:\Users\BSH\Downloads\boundballv3\boundball\obj\Debug\boundball.csprojResolveAssemblyReference.cache
+C:\Users\BSH\Downloads\boundballv3\boundball\obj\Debug\boundball.Form1.resources
+C:\Users\BSH\Downloads\boundballv3\boundball\obj\Debug\boundball.Properties.Resources.resources
+C:\Users\BSH\Downloads\boundballv3\boundball\obj\Debug\boundball.csproj.GenerateResource.cache
+C:\Users\BSH\Downloads\boundballv3\boundball\obj\Debug\boundball.csproj.CoreCompileInputs.cache
+C:\Users\BSH\Downloads\boundballv3\boundball\obj\Debug\boundball.exe
+C:\Users\BSH\Downloads\boundballv3\boundball\obj\Debug\boundball.pdb
+C:\Users\lab309\Documents\카카오톡 받은 파일\boundball_v1.0\boundball\bin\Debug\boundball.exe
+C:\Users\lab309\Documents\카카오톡 받은 파일\boundball_v1.0\boundball\bin\Debug\boundball.pdb
+C:\Users\lab309\Documents\카카오톡 받은 파일\boundball_v1.0\boundball\obj\Debug\boundball.csprojAssemblyReference.cache
+C:\Users\lab309\Documents\카카오톡 받은 파일\boundball_v1.0\boundball\obj\Debug\boundball.Form1.resources
+C:\Users\lab309\Documents\카카오톡 받은 파일\boundball_v1.0\boundball\obj\Debug\boundball.Properties.Resources.resources
+C:\Users\lab309\Documents\카카오톡 받은 파일\boundball_v1.0\boundball\obj\Debug\boundball.csproj.GenerateResource.cache
+C:\Users\lab309\Documents\카카오톡 받은 파일\boundball_v1.0\boundball\obj\Debug\boundball.csproj.CoreCompileInputs.cache
+C:\Users\lab309\Documents\카카오톡 받은 파일\boundball_v1.0\boundball\obj\Debug\boundball.exe
+C:\Users\lab309\Documents\카카오톡 받은 파일\boundball_v1.0\boundball\obj\Debug\boundball.pdb
+C:\Users\USER\Documents\카카오톡 받은 파일\boundball_v1.0 (1)\boundball_v1.0\boundball\bin\Debug\boundball.exe
+C:\Users\USER\Documents\카카오톡 받은 파일\boundball_v1.0 (1)\boundball_v1.0\boundball\bin\Debug\boundball.pdb
+C:\Users\USER\Documents\카카오톡 받은 파일\boundball_v1.0 (1)\boundball_v1.0\boundball\obj\Debug\boundball.csprojAssemblyReference.cache
+C:\Users\USER\Documents\카카오톡 받은 파일\boundball_v1.0 (1)\boundball_v1.0\boundball\obj\Debug\boundball.Form1.resources
+C:\Users\USER\Documents\카카오톡 받은 파일\boundball_v1.0 (1)\boundball_v1.0\boundball\obj\Debug\boundball.Properties.Resources.resources
+C:\Users\USER\Documents\카카오톡 받은 파일\boundball_v1.0 (1)\boundball_v1.0\boundball\obj\Debug\boundball.csproj.GenerateResource.cache
+C:\Users\USER\Documents\카카오톡 받은 파일\boundball_v1.0 (1)\boundball_v1.0\boundball\obj\Debug\boundball.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\카카오톡 받은 파일\boundball_v1.0 (1)\boundball_v1.0\boundball\obj\Debug\boundball.exe
+C:\Users\USER\Documents\카카오톡 받은 파일\boundball_v1.0 (1)\boundball_v1.0\boundball\obj\Debug\boundball.pdb
+C:\Users\USER\Desktop\boundball_v1.0\boundball\bin\Debug\boundball.exe
+C:\Users\USER\Desktop\boundball_v1.0\boundball\bin\Debug\boundball.pdb
+C:\Users\USER\Desktop\boundball_v1.0\boundball\obj\Debug\boundball.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\boundball_v1.0\boundball\obj\Debug\boundball.Form1.resources
+C:\Users\USER\Desktop\boundball_v1.0\boundball\obj\Debug\boundball.Properties.Resources.resources
+C:\Users\USER\Desktop\boundball_v1.0\boundball\obj\Debug\boundball.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\boundball_v1.0\boundball\obj\Debug\boundball.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\boundball_v1.0\boundball\obj\Debug\boundball.exe
+C:\Users\USER\Desktop\boundball_v1.0\boundball\obj\Debug\boundball.pdb
+C:\Users\01\Desktop\boundball_v1.0\boundball\bin\Debug\boundball.exe
+C:\Users\01\Desktop\boundball_v1.0\boundball\bin\Debug\boundball.pdb
+C:\Users\01\Desktop\boundball_v1.0\boundball\bin\Debug\NAudio.dll
+C:\Users\01\Desktop\boundball_v1.0\boundball\bin\Debug\NAudio.xml
+C:\Users\01\Desktop\boundball_v1.0\boundball\obj\Debug\boundball.csprojAssemblyReference.cache
+C:\Users\01\Desktop\boundball_v1.0\boundball\obj\Debug\boundball.Form1.resources
+C:\Users\01\Desktop\boundball_v1.0\boundball\obj\Debug\boundball.Properties.Resources.resources
+C:\Users\01\Desktop\boundball_v1.0\boundball\obj\Debug\boundball.csproj.GenerateResource.cache
+C:\Users\01\Desktop\boundball_v1.0\boundball\obj\Debug\boundball.csproj.CoreCompileInputs.cache
+C:\Users\01\Desktop\boundball_v1.0\boundball\obj\Debug\boundball.csproj.CopyComplete
+C:\Users\01\Desktop\boundball_v1.0\boundball\obj\Debug\boundball.exe
+C:\Users\01\Desktop\boundball_v1.0\boundball\obj\Debug\boundball.pdb
+C:\Users\USER\Desktop\boundball_v1.0\boundball_v1.0\boundball\bin\Debug\boundball.exe
+C:\Users\USER\Desktop\boundball_v1.0\boundball_v1.0\boundball\bin\Debug\boundball.pdb
+C:\Users\USER\Desktop\boundball_v1.0\boundball_v1.0\boundball\bin\Debug\NAudio.dll
+C:\Users\USER\Desktop\boundball_v1.0\boundball_v1.0\boundball\bin\Debug\NAudio.xml
+C:\Users\USER\Desktop\boundball_v1.0\boundball_v1.0\boundball\obj\Debug\boundball.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\boundball_v1.0\boundball_v1.0\boundball\obj\Debug\boundball.Form1.resources
+C:\Users\USER\Desktop\boundball_v1.0\boundball_v1.0\boundball\obj\Debug\boundball.Properties.Resources.resources
+C:\Users\USER\Desktop\boundball_v1.0\boundball_v1.0\boundball\obj\Debug\boundball.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\boundball_v1.0\boundball_v1.0\boundball\obj\Debug\boundball.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\boundball_v1.0\boundball_v1.0\boundball\obj\Debug\boundball.csproj.CopyComplete
+C:\Users\USER\Desktop\boundball_v1.0\boundball_v1.0\boundball\obj\Debug\boundball.exe
+C:\Users\USER\Desktop\boundball_v1.0\boundball_v1.0\boundball\obj\Debug\boundball.pdb
+C:\Users\01\Desktop\Report\boundball_v1.0\boundball\obj\Debug\boundball.csprojAssemblyReference.cache
+C:\Users\01\Desktop\Report\boundball_v1.0\boundball\obj\Debug\boundball.Form1.resources
+C:\Users\01\Desktop\Report\boundball_v1.0\boundball\obj\Debug\boundball.Properties.Resources.resources
+C:\Users\01\Desktop\Report\boundball_v1.0\boundball\obj\Debug\boundball.csproj.GenerateResource.cache
+C:\Users\01\Desktop\Report\boundball_v1.0\boundball\obj\Debug\boundball.csproj.CoreCompileInputs.cache
+C:\Users\01\Desktop\Report\boundball_v1.0\boundball\obj\Debug\boundball.exe
+C:\Users\01\Desktop\Report\boundball_v1.0\boundball\obj\Debug\boundball.pdb
+C:\Users\01\Desktop\Report\boundball_v1.0\boundball\bin\Debug\boundball.exe
+C:\Users\01\Desktop\Report\boundball_v1.0\boundball\bin\Debug\boundball.pdb
+C:\Users\01\Desktop\Report\boundball_v1.0\boundball\bin\Debug\NAudio.dll
+C:\Users\01\Desktop\Report\boundball_v1.0\boundball\bin\Debug\NAudio.xml
+C:\Users\01\Desktop\Report\boundball_v1.0\boundball\obj\Debug\boundball.csproj.CopyComplete
+C:\Users\01\Documents\카카오톡 받은 파일\report\boundball_v1.0\boundball\bin\Debug\boundball.exe
+C:\Users\01\Documents\카카오톡 받은 파일\report\boundball_v1.0\boundball\bin\Debug\boundball.pdb
+C:\Users\01\Documents\카카오톡 받은 파일\report\boundball_v1.0\boundball\bin\Debug\NAudio.dll
+C:\Users\01\Documents\카카오톡 받은 파일\report\boundball_v1.0\boundball\bin\Debug\NAudio.xml
+C:\Users\01\Documents\카카오톡 받은 파일\report\boundball_v1.0\boundball\obj\Debug\boundball.csprojAssemblyReference.cache
+C:\Users\01\Documents\카카오톡 받은 파일\report\boundball_v1.0\boundball\obj\Debug\boundball.Form1.resources
+C:\Users\01\Documents\카카오톡 받은 파일\report\boundball_v1.0\boundball\obj\Debug\boundball.Properties.Resources.resources
+C:\Users\01\Documents\카카오톡 받은 파일\report\boundball_v1.0\boundball\obj\Debug\boundball.csproj.GenerateResource.cache
+C:\Users\01\Documents\카카오톡 받은 파일\report\boundball_v1.0\boundball\obj\Debug\boundball.csproj.CoreCompileInputs.cache
+C:\Users\01\Documents\카카오톡 받은 파일\report\boundball_v1.0\boundball\obj\Debug\boundball.csproj.CopyComplete
+C:\Users\01\Documents\카카오톡 받은 파일\report\boundball_v1.0\boundball\obj\Debug\boundball.exe
+C:\Users\01\Documents\카카오톡 받은 파일\report\boundball_v1.0\boundball\obj\Debug\boundball.pdb
+C:\Users\USER\Desktop\boundball_v2.0\boundball_v1.0\boundball\bin\Debug\boundball.exe
+C:\Users\USER\Desktop\boundball_v2.0\boundball_v1.0\boundball\bin\Debug\boundball.pdb
+C:\Users\USER\Desktop\boundball_v2.0\boundball_v1.0\boundball\bin\Debug\NAudio.dll
+C:\Users\USER\Desktop\boundball_v2.0\boundball_v1.0\boundball\bin\Debug\NAudio.xml
+C:\Users\USER\Desktop\boundball_v2.0\boundball_v1.0\boundball\obj\Debug\boundball.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\boundball_v2.0\boundball_v1.0\boundball\obj\Debug\boundball.Form1.resources
+C:\Users\USER\Desktop\boundball_v2.0\boundball_v1.0\boundball\obj\Debug\boundball.Properties.Resources.resources
+C:\Users\USER\Desktop\boundball_v2.0\boundball_v1.0\boundball\obj\Debug\boundball.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\boundball_v2.0\boundball_v1.0\boundball\obj\Debug\boundball.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\boundball_v2.0\boundball_v1.0\boundball\obj\Debug\boundball.csproj.CopyComplete
+C:\Users\USER\Desktop\boundball_v2.0\boundball_v1.0\boundball\obj\Debug\boundball.exe
+C:\Users\USER\Desktop\boundball_v2.0\boundball_v1.0\boundball\obj\Debug\boundball.pdb
+C:\Users\01\Desktop\boundball_v2.0\boundball_v1.0\boundball\obj\Debug\boundball.csprojAssemblyReference.cache
+C:\Users\01\Desktop\boundball_v2.0\boundball_v1.0\boundball\obj\Debug\boundball.Form1.resources
+C:\Users\01\Desktop\boundball_v2.0\boundball_v1.0\boundball\obj\Debug\boundball.Properties.Resources.resources
+C:\Users\01\Desktop\boundball_v2.0\boundball_v1.0\boundball\obj\Debug\boundball.csproj.GenerateResource.cache
+C:\Users\01\Desktop\boundball_v2.0\boundball_v1.0\boundball\obj\Debug\boundball.csproj.CoreCompileInputs.cache
+C:\Users\01\Desktop\boundball_v2.0\boundball_v1.0\boundball\obj\Debug\boundball.exe
+C:\Users\01\Desktop\boundball_v2.0\boundball_v1.0\boundball\obj\Debug\boundball.pdb
+C:\Users\01\Desktop\boundball_v2.0\boundball_v1.0\boundball\bin\Debug\boundball.exe
+C:\Users\01\Desktop\boundball_v2.0\boundball_v1.0\boundball\bin\Debug\boundball.pdb
+C:\Users\01\Desktop\boundball_v2.0\boundball_v1.0\boundball\bin\Debug\NAudio.dll
+C:\Users\01\Desktop\boundball_v2.0\boundball_v1.0\boundball\bin\Debug\NAudio.xml
+C:\Users\01\Desktop\boundball_v2.0\boundball_v1.0\boundball\obj\Debug\boundball.csproj.CopyComplete
+C:\Users\USER\Desktop\boundball_v2.0\boundball_v2.0\boundball_v1.0\boundball\bin\Debug\boundball.exe
+C:\Users\USER\Desktop\boundball_v2.0\boundball_v2.0\boundball_v1.0\boundball\bin\Debug\boundball.pdb
+C:\Users\USER\Desktop\boundball_v2.0\boundball_v2.0\boundball_v1.0\boundball\bin\Debug\NAudio.dll
+C:\Users\USER\Desktop\boundball_v2.0\boundball_v2.0\boundball_v1.0\boundball\bin\Debug\NAudio.xml
+C:\Users\USER\Desktop\boundball_v2.0\boundball_v2.0\boundball_v1.0\boundball\obj\Debug\boundball.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\boundball_v2.0\boundball_v2.0\boundball_v1.0\boundball\obj\Debug\boundball.Form1.resources
+C:\Users\USER\Desktop\boundball_v2.0\boundball_v2.0\boundball_v1.0\boundball\obj\Debug\boundball.Properties.Resources.resources
+C:\Users\USER\Desktop\boundball_v2.0\boundball_v2.0\boundball_v1.0\boundball\obj\Debug\boundball.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\boundball_v2.0\boundball_v2.0\boundball_v1.0\boundball\obj\Debug\boundball.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\boundball_v2.0\boundball_v2.0\boundball_v1.0\boundball\obj\Debug\boundball.csproj.CopyComplete
+C:\Users\USER\Desktop\boundball_v2.0\boundball_v2.0\boundball_v1.0\boundball\obj\Debug\boundball.exe
+C:\Users\USER\Desktop\boundball_v2.0\boundball_v2.0\boundball_v1.0\boundball\obj\Debug\boundball.pdb
+C:\Users\Kwon\Desktop\boundball_v2.1\boundball_v2.0\boundball_v1.0\boundball\bin\Debug\boundball.exe
+C:\Users\Kwon\Desktop\boundball_v2.1\boundball_v2.0\boundball_v1.0\boundball\bin\Debug\boundball.pdb
+C:\Users\Kwon\Desktop\boundball_v2.1\boundball_v2.0\boundball_v1.0\boundball\bin\Debug\NAudio.dll
+C:\Users\Kwon\Desktop\boundball_v2.1\boundball_v2.0\boundball_v1.0\boundball\bin\Debug\NAudio.xml
+C:\Users\Kwon\Desktop\boundball_v2.1\boundball_v2.0\boundball_v1.0\boundball\obj\Debug\boundball.csprojAssemblyReference.cache
+C:\Users\Kwon\Desktop\boundball_v2.1\boundball_v2.0\boundball_v1.0\boundball\obj\Debug\boundball.Form1.resources
+C:\Users\Kwon\Desktop\boundball_v2.1\boundball_v2.0\boundball_v1.0\boundball\obj\Debug\boundball.Properties.Resources.resources
+C:\Users\Kwon\Desktop\boundball_v2.1\boundball_v2.0\boundball_v1.0\boundball\obj\Debug\boundball.csproj.GenerateResource.cache
+C:\Users\Kwon\Desktop\boundball_v2.1\boundball_v2.0\boundball_v1.0\boundball\obj\Debug\boundball.csproj.CoreCompileInputs.cache
+C:\Users\Kwon\Desktop\boundball_v2.1\boundball_v2.0\boundball_v1.0\boundball\obj\Debug\boundball.csproj.CopyComplete
+C:\Users\Kwon\Desktop\boundball_v2.1\boundball_v2.0\boundball_v1.0\boundball\obj\Debug\boundball.exe
+C:\Users\Kwon\Desktop\boundball_v2.1\boundball_v2.0\boundball_v1.0\boundball\obj\Debug\boundball.pdb
+C:\Users\USER\Documents\카카오톡 받은 파일\boundball_v2.1 (2)\boundball_v2.1\boundball_v2.0\boundball_v1.0\boundball\bin\Debug\boundball.exe
+C:\Users\USER\Documents\카카오톡 받은 파일\boundball_v2.1 (2)\boundball_v2.1\boundball_v2.0\boundball_v1.0\boundball\bin\Debug\boundball.pdb
+C:\Users\USER\Documents\카카오톡 받은 파일\boundball_v2.1 (2)\boundball_v2.1\boundball_v2.0\boundball_v1.0\boundball\bin\Debug\NAudio.dll
+C:\Users\USER\Documents\카카오톡 받은 파일\boundball_v2.1 (2)\boundball_v2.1\boundball_v2.0\boundball_v1.0\boundball\bin\Debug\NAudio.xml
+C:\Users\USER\Documents\카카오톡 받은 파일\boundball_v2.1 (2)\boundball_v2.1\boundball_v2.0\boundball_v1.0\boundball\obj\Debug\boundball.csprojAssemblyReference.cache
+C:\Users\USER\Documents\카카오톡 받은 파일\boundball_v2.1 (2)\boundball_v2.1\boundball_v2.0\boundball_v1.0\boundball\obj\Debug\boundball.Form1.resources
+C:\Users\USER\Documents\카카오톡 받은 파일\boundball_v2.1 (2)\boundball_v2.1\boundball_v2.0\boundball_v1.0\boundball\obj\Debug\boundball.Properties.Resources.resources
+C:\Users\USER\Documents\카카오톡 받은 파일\boundball_v2.1 (2)\boundball_v2.1\boundball_v2.0\boundball_v1.0\boundball\obj\Debug\boundball.csproj.GenerateResource.cache
+C:\Users\USER\Documents\카카오톡 받은 파일\boundball_v2.1 (2)\boundball_v2.1\boundball_v2.0\boundball_v1.0\boundball\obj\Debug\boundball.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\카카오톡 받은 파일\boundball_v2.1 (2)\boundball_v2.1\boundball_v2.0\boundball_v1.0\boundball\obj\Debug\boundball.csproj.CopyComplete
+C:\Users\USER\Documents\카카오톡 받은 파일\boundball_v2.1 (2)\boundball_v2.1\boundball_v2.0\boundball_v1.0\boundball\obj\Debug\boundball.exe
+C:\Users\USER\Documents\카카오톡 받은 파일\boundball_v2.1 (2)\boundball_v2.1\boundball_v2.0\boundball_v1.0\boundball\obj\Debug\boundball.pdb
+C:\Users\USER\Documents\카카오톡 받은 파일\boundball_v2.1\boundball_v2.1\boundball\bin\Debug\boundball.exe
+C:\Users\USER\Documents\카카오톡 받은 파일\boundball_v2.1\boundball_v2.1\boundball\bin\Debug\boundball.pdb
+C:\Users\USER\Documents\카카오톡 받은 파일\boundball_v2.1\boundball_v2.1\boundball\bin\Debug\NAudio.dll
+C:\Users\USER\Documents\카카오톡 받은 파일\boundball_v2.1\boundball_v2.1\boundball\bin\Debug\NAudio.xml
+C:\Users\USER\Documents\카카오톡 받은 파일\boundball_v2.1\boundball_v2.1\boundball\obj\Debug\boundball.csprojAssemblyReference.cache
+C:\Users\USER\Documents\카카오톡 받은 파일\boundball_v2.1\boundball_v2.1\boundball\obj\Debug\boundball.Form1.resources
+C:\Users\USER\Documents\카카오톡 받은 파일\boundball_v2.1\boundball_v2.1\boundball\obj\Debug\boundball.Properties.Resources.resources
+C:\Users\USER\Documents\카카오톡 받은 파일\boundball_v2.1\boundball_v2.1\boundball\obj\Debug\boundball.csproj.GenerateResource.cache
+C:\Users\USER\Documents\카카오톡 받은 파일\boundball_v2.1\boundball_v2.1\boundball\obj\Debug\boundball.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\카카오톡 받은 파일\boundball_v2.1\boundball_v2.1\boundball\obj\Debug\boundball.csproj.CopyComplete
+C:\Users\USER\Documents\카카오톡 받은 파일\boundball_v2.1\boundball_v2.1\boundball\obj\Debug\boundball.exe
+C:\Users\USER\Documents\카카오톡 받은 파일\boundball_v2.1\boundball_v2.1\boundball\obj\Debug\boundball.pdb
+C:\Users\01\Desktop\boundball_v2.1\boundball_v2.0\boundball_v2.1\boundball\bin\Debug\boundball.exe
+C:\Users\01\Desktop\boundball_v2.1\boundball_v2.0\boundball_v2.1\boundball\bin\Debug\boundball.pdb
+C:\Users\01\Desktop\boundball_v2.1\boundball_v2.0\boundball_v2.1\boundball\bin\Debug\NAudio.dll
+C:\Users\01\Desktop\boundball_v2.1\boundball_v2.0\boundball_v2.1\boundball\bin\Debug\NAudio.xml
+C:\Users\01\Desktop\boundball_v2.1\boundball_v2.0\boundball_v2.1\boundball\obj\Debug\boundball.csprojAssemblyReference.cache
+C:\Users\01\Desktop\boundball_v2.1\boundball_v2.0\boundball_v2.1\boundball\obj\Debug\boundball.Form1.resources
+C:\Users\01\Desktop\boundball_v2.1\boundball_v2.0\boundball_v2.1\boundball\obj\Debug\boundball.Properties.Resources.resources
+C:\Users\01\Desktop\boundball_v2.1\boundball_v2.0\boundball_v2.1\boundball\obj\Debug\boundball.csproj.GenerateResource.cache
+C:\Users\01\Desktop\boundball_v2.1\boundball_v2.0\boundball_v2.1\boundball\obj\Debug\boundball.csproj.CoreCompileInputs.cache
+C:\Users\01\Desktop\boundball_v2.1\boundball_v2.0\boundball_v2.1\boundball\obj\Debug\boundball.csproj.CopyComplete
+C:\Users\01\Desktop\boundball_v2.1\boundball_v2.0\boundball_v2.1\boundball\obj\Debug\boundball.exe
+C:\Users\01\Desktop\boundball_v2.1\boundball_v2.0\boundball_v2.1\boundball\obj\Debug\boundball.pdb
+C:\Users\01\Desktop\boundball_v2.1\boundball_v2.0\boundball_v2.2\boundball\bin\Debug\boundball.exe
+C:\Users\01\Desktop\boundball_v2.1\boundball_v2.0\boundball_v2.2\boundball\bin\Debug\boundball.pdb
+C:\Users\01\Desktop\boundball_v2.1\boundball_v2.0\boundball_v2.2\boundball\bin\Debug\NAudio.dll
+C:\Users\01\Desktop\boundball_v2.1\boundball_v2.0\boundball_v2.2\boundball\bin\Debug\NAudio.xml
+C:\Users\01\Desktop\boundball_v2.1\boundball_v2.0\boundball_v2.2\boundball\obj\Debug\boundball.csprojAssemblyReference.cache
+C:\Users\01\Desktop\boundball_v2.1\boundball_v2.0\boundball_v2.2\boundball\obj\Debug\boundball.Form1.resources
+C:\Users\01\Desktop\boundball_v2.1\boundball_v2.0\boundball_v2.2\boundball\obj\Debug\boundball.Properties.Resources.resources
+C:\Users\01\Desktop\boundball_v2.1\boundball_v2.0\boundball_v2.2\boundball\obj\Debug\boundball.csproj.GenerateResource.cache
+C:\Users\01\Desktop\boundball_v2.1\boundball_v2.0\boundball_v2.2\boundball\obj\Debug\boundball.csproj.CoreCompileInputs.cache
+C:\Users\01\Desktop\boundball_v2.1\boundball_v2.0\boundball_v2.2\boundball\obj\Debug\boundball.csproj.CopyComplete
+C:\Users\01\Desktop\boundball_v2.1\boundball_v2.0\boundball_v2.2\boundball\obj\Debug\boundball.exe
+C:\Users\01\Desktop\boundball_v2.1\boundball_v2.0\boundball_v2.2\boundball\obj\Debug\boundball.pdb
+C:\Users\BSH\Documents\카카오톡 받은 파일\BODA92~1\boundball_v2.2\boundball\bin\Debug\boundball.exe
+C:\Users\BSH\Documents\카카오톡 받은 파일\BODA92~1\boundball_v2.2\boundball\bin\Debug\NAudio.dll
+C:\Users\BSH\Documents\카카오톡 받은 파일\BODA92~1\boundball_v2.2\boundball\bin\Debug\NAudio.xml
+C:\Users\BSH\Documents\카카오톡 받은 파일\BODA92~1\boundball_v2.2\boundball\obj\Debug\boundball.Form1.resources
+C:\Users\BSH\Documents\카카오톡 받은 파일\BODA92~1\boundball_v2.2\boundball\obj\Debug\boundball.Properties.Resources.resources
+C:\Users\BSH\Documents\카카오톡 받은 파일\BODA92~1\boundball_v2.2\boundball\obj\Debug\boundball.csproj.GenerateResource.cache
+C:\Users\BSH\Documents\카카오톡 받은 파일\BODA92~1\boundball_v2.2\boundball\obj\Debug\boundball.csproj.CoreCompileInputs.cache
+C:\Users\BSH\Documents\카카오톡 받은 파일\BODA92~1\boundball_v2.2\boundball\obj\Debug\boundball.csproj.CopyComplete
+C:\Users\BSH\Documents\카카오톡 받은 파일\BODA92~1\boundball_v2.2\boundball\obj\Debug\boundball.exe
+C:\Users\BSH\Documents\카카오톡 받은 파일\BODA92~1\boundball_v2.2\boundball\obj\Debug\boundball.pdb
+C:\Users\BSH\Documents\카카오톡 받은 파일\BODA92~1\boundball_v2.2\boundball\bin\Debug\boundball.pdb
+C:\Users\BSH\Documents\카카오톡 받은 파일\BODA92~1\boundball_v2.2\boundball\obj\Debug\boundball.csprojResolveAssemblyReference.cache
+C:\Users\01\Documents\카카오톡 받은 파일\29일최종\boundball_v2.2\boundball\bin\Debug\boundball.exe
+C:\Users\01\Documents\카카오톡 받은 파일\29일최종\boundball_v2.2\boundball\bin\Debug\boundball.pdb
+C:\Users\01\Documents\카카오톡 받은 파일\29일최종\boundball_v2.2\boundball\bin\Debug\NAudio.dll
+C:\Users\01\Documents\카카오톡 받은 파일\29일최종\boundball_v2.2\boundball\bin\Debug\NAudio.xml
+C:\Users\01\Documents\카카오톡 받은 파일\29일최종\boundball_v2.2\boundball\obj\Debug\boundball.csprojAssemblyReference.cache
+C:\Users\01\Documents\카카오톡 받은 파일\29일최종\boundball_v2.2\boundball\obj\Debug\boundball.Form1.resources
+C:\Users\01\Documents\카카오톡 받은 파일\29일최종\boundball_v2.2\boundball\obj\Debug\boundball.Properties.Resources.resources
+C:\Users\01\Documents\카카오톡 받은 파일\29일최종\boundball_v2.2\boundball\obj\Debug\boundball.csproj.GenerateResource.cache
+C:\Users\01\Documents\카카오톡 받은 파일\29일최종\boundball_v2.2\boundball\obj\Debug\boundball.csproj.CoreCompileInputs.cache
+C:\Users\01\Documents\카카오톡 받은 파일\29일최종\boundball_v2.2\boundball\obj\Debug\boundball.csproj.CopyComplete
+C:\Users\01\Documents\카카오톡 받은 파일\29일최종\boundball_v2.2\boundball\obj\Debug\boundball.exe
+C:\Users\01\Documents\카카오톡 받은 파일\29일최종\boundball_v2.2\boundball\obj\Debug\boundball.pdb
+C:\Users\USER\Desktop\29일최종\boundball_v2.2\boundball\obj\Debug\boundball.Form1.resources
+C:\Users\USER\Desktop\29일최종\boundball_v2.2\boundball\obj\Debug\boundball.Properties.Resources.resources
+C:\Users\USER\Desktop\29일최종\boundball_v2.2\boundball\obj\Debug\boundball.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\29일최종\boundball_v2.2\boundball\obj\Debug\boundball.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\29일최종\boundball_v2.2\boundball\obj\Debug\boundball.exe
+C:\Users\USER\Desktop\29일최종\boundball_v2.2\boundball\obj\Debug\boundball.pdb
+C:\Users\USER\Desktop\29일최종\boundball_v2.2\boundball\bin\Debug\boundball.exe
+C:\Users\USER\Desktop\29일최종\boundball_v2.2\boundball\bin\Debug\boundball.pdb
+C:\Users\USER\Desktop\29일최종\boundball_v2.2\boundball\bin\Debug\NAudio.dll
+C:\Users\USER\Desktop\29일최종\boundball_v2.2\boundball\bin\Debug\NAudio.xml
+C:\Users\USER\Desktop\29일최종\boundball_v2.2\boundball\obj\Debug\boundball.csproj.CopyComplete
+C:\Users\USER\Desktop\29일최종\boundball_v2.2\boundball\obj\Debug\boundball.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\과제\29일최종\boundball_v2.2\boundball\bin\Debug\boundball.exe
+C:\Users\USER\Desktop\과제\29일최종\boundball_v2.2\boundball\bin\Debug\boundball.pdb
+C:\Users\USER\Desktop\과제\29일최종\boundball_v2.2\boundball\bin\Debug\NAudio.dll
+C:\Users\USER\Desktop\과제\29일최종\boundball_v2.2\boundball\bin\Debug\NAudio.xml
+C:\Users\USER\Desktop\과제\29일최종\boundball_v2.2\boundball\obj\Debug\boundball.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\과제\29일최종\boundball_v2.2\boundball\obj\Debug\boundball.Form1.resources
+C:\Users\USER\Desktop\과제\29일최종\boundball_v2.2\boundball\obj\Debug\boundball.Properties.Resources.resources
+C:\Users\USER\Desktop\과제\29일최종\boundball_v2.2\boundball\obj\Debug\boundball.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\과제\29일최종\boundball_v2.2\boundball\obj\Debug\boundball.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\과제\29일최종\boundball_v2.2\boundball\obj\Debug\boundball.csproj.CopyComplete
+C:\Users\USER\Desktop\과제\29일최종\boundball_v2.2\boundball\obj\Debug\boundball.exe
+C:\Users\USER\Desktop\과제\29일최종\boundball_v2.2\boundball\obj\Debug\boundball.pdb
+C:\Users\01\Desktop\BoundBall_(ItemAdd)\boundball_v2.2\boundball\bin\Debug\boundball.exe
+C:\Users\01\Desktop\BoundBall_(ItemAdd)\boundball_v2.2\boundball\bin\Debug\boundball.pdb
+C:\Users\01\Desktop\BoundBall_(ItemAdd)\boundball_v2.2\boundball\bin\Debug\NAudio.dll
+C:\Users\01\Desktop\BoundBall_(ItemAdd)\boundball_v2.2\boundball\bin\Debug\NAudio.xml
+C:\Users\01\Desktop\BoundBall_(ItemAdd)\boundball_v2.2\boundball\obj\Debug\boundball.csprojAssemblyReference.cache
+C:\Users\01\Desktop\BoundBall_(ItemAdd)\boundball_v2.2\boundball\obj\Debug\boundball.Form1.resources
+C:\Users\01\Desktop\BoundBall_(ItemAdd)\boundball_v2.2\boundball\obj\Debug\boundball.Properties.Resources.resources
+C:\Users\01\Desktop\BoundBall_(ItemAdd)\boundball_v2.2\boundball\obj\Debug\boundball.csproj.GenerateResource.cache
+C:\Users\01\Desktop\BoundBall_(ItemAdd)\boundball_v2.2\boundball\obj\Debug\boundball.csproj.CoreCompileInputs.cache
+C:\Users\01\Desktop\BoundBall_(ItemAdd)\boundball_v2.2\boundball\obj\Debug\boundball.csproj.CopyComplete
+C:\Users\01\Desktop\BoundBall_(ItemAdd)\boundball_v2.2\boundball\obj\Debug\boundball.exe
+C:\Users\01\Desktop\BoundBall_(ItemAdd)\boundball_v2.2\boundball\obj\Debug\boundball.pdb
+C:\Users\USER\Desktop\UdpServer\boundball_v2.2\boundball\bin\Debug\boundball.exe
+C:\Users\USER\Desktop\UdpServer\boundball_v2.2\boundball\bin\Debug\boundball.pdb
+C:\Users\USER\Desktop\UdpServer\boundball_v2.2\boundball\bin\Debug\NAudio.dll
+C:\Users\USER\Desktop\UdpServer\boundball_v2.2\boundball\bin\Debug\NAudio.xml
+C:\Users\USER\Desktop\UdpServer\boundball_v2.2\boundball\obj\Debug\boundball.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\UdpServer\boundball_v2.2\boundball\obj\Debug\boundball.Form1.resources
+C:\Users\USER\Desktop\UdpServer\boundball_v2.2\boundball\obj\Debug\boundball.Properties.Resources.resources
+C:\Users\USER\Desktop\UdpServer\boundball_v2.2\boundball\obj\Debug\boundball.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\UdpServer\boundball_v2.2\boundball\obj\Debug\boundball.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\UdpServer\boundball_v2.2\boundball\obj\Debug\boundball.csproj.CopyComplete
+C:\Users\USER\Desktop\UdpServer\boundball_v2.2\boundball\obj\Debug\boundball.exe
+C:\Users\USER\Desktop\UdpServer\boundball_v2.2\boundball\obj\Debug\boundball.pdb
+C:\Users\lab309\Documents\카카오톡 받은 파일\아이템추가(부스터[사운드 필요]\boundball_v2.2\boundball\bin\Debug\boundball.exe
+C:\Users\lab309\Documents\카카오톡 받은 파일\아이템추가(부스터[사운드 필요]\boundball_v2.2\boundball\bin\Debug\boundball.pdb
+C:\Users\lab309\Documents\카카오톡 받은 파일\아이템추가(부스터[사운드 필요]\boundball_v2.2\boundball\bin\Debug\NAudio.dll
+C:\Users\lab309\Documents\카카오톡 받은 파일\아이템추가(부스터[사운드 필요]\boundball_v2.2\boundball\bin\Debug\NAudio.xml
+C:\Users\lab309\Documents\카카오톡 받은 파일\아이템추가(부스터[사운드 필요]\boundball_v2.2\boundball\obj\Debug\boundball.csprojAssemblyReference.cache
+C:\Users\lab309\Documents\카카오톡 받은 파일\아이템추가(부스터[사운드 필요]\boundball_v2.2\boundball\obj\Debug\boundball.Form1.resources
+C:\Users\lab309\Documents\카카오톡 받은 파일\아이템추가(부스터[사운드 필요]\boundball_v2.2\boundball\obj\Debug\boundball.Properties.Resources.resources
+C:\Users\lab309\Documents\카카오톡 받은 파일\아이템추가(부스터[사운드 필요]\boundball_v2.2\boundball\obj\Debug\boundball.csproj.GenerateResource.cache
+C:\Users\lab309\Documents\카카오톡 받은 파일\아이템추가(부스터[사운드 필요]\boundball_v2.2\boundball\obj\Debug\boundball.csproj.CoreCompileInputs.cache
+C:\Users\lab309\Documents\카카오톡 받은 파일\아이템추가(부스터[사운드 필요]\boundball_v2.2\boundball\obj\Debug\boundball.csproj.CopyComplete
+C:\Users\lab309\Documents\카카오톡 받은 파일\아이템추가(부스터[사운드 필요]\boundball_v2.2\boundball\obj\Debug\boundball.exe
+C:\Users\lab309\Documents\카카오톡 받은 파일\아이템추가(부스터[사운드 필요]\boundball_v2.2\boundball\obj\Debug\boundball.pdb
+C:\Users\BSH\Documents\카카오톡 받은 파일\아이템~1\아이템추가(부스터[사운드 필요]\boundball_v2.2\boundball\bin\Debug\boundball.exe
+C:\Users\BSH\Documents\카카오톡 받은 파일\아이템~1\아이템추가(부스터[사운드 필요]\boundball_v2.2\boundball\bin\Debug\boundball.pdb
+C:\Users\BSH\Documents\카카오톡 받은 파일\아이템~1\아이템추가(부스터[사운드 필요]\boundball_v2.2\boundball\bin\Debug\NAudio.dll
+C:\Users\BSH\Documents\카카오톡 받은 파일\아이템~1\아이템추가(부스터[사운드 필요]\boundball_v2.2\boundball\bin\Debug\NAudio.xml
+C:\Users\BSH\Documents\카카오톡 받은 파일\아이템~1\아이템추가(부스터[사운드 필요]\boundball_v2.2\boundball\obj\Debug\boundball.Form1.resources
+C:\Users\BSH\Documents\카카오톡 받은 파일\아이템~1\아이템추가(부스터[사운드 필요]\boundball_v2.2\boundball\obj\Debug\boundball.Properties.Resources.resources
+C:\Users\BSH\Documents\카카오톡 받은 파일\아이템~1\아이템추가(부스터[사운드 필요]\boundball_v2.2\boundball\obj\Debug\boundball.csproj.GenerateResource.cache
+C:\Users\BSH\Documents\카카오톡 받은 파일\아이템~1\아이템추가(부스터[사운드 필요]\boundball_v2.2\boundball\obj\Debug\boundball.csproj.CoreCompileInputs.cache
+C:\Users\BSH\Documents\카카오톡 받은 파일\아이템~1\아이템추가(부스터[사운드 필요]\boundball_v2.2\boundball\obj\Debug\boundball.csproj.CopyComplete
+C:\Users\BSH\Documents\카카오톡 받은 파일\아이템~1\아이템추가(부스터[사운드 필요]\boundball_v2.2\boundball\obj\Debug\boundball.exe
+C:\Users\BSH\Documents\카카오톡 받은 파일\아이템~1\아이템추가(부스터[사운드 필요]\boundball_v2.2\boundball\obj\Debug\boundball.pdb
+C:\Users\BSH\Documents\카카오톡 받은 파일\아이템~1\아이템추가(부스터[사운드 필요]\boundball_v2.2\boundball\obj\Debug\boundball.csprojResolveAssemblyReference.cache
+C:\Users\01\Documents\카카오톡 받은 파일\packages\boundball\bin\Debug\boundball.exe
+C:\Users\01\Documents\카카오톡 받은 파일\packages\boundball\bin\Debug\boundball.pdb
+C:\Users\01\Documents\카카오톡 받은 파일\packages\boundball\bin\Debug\NAudio.dll
+C:\Users\01\Documents\카카오톡 받은 파일\packages\boundball\bin\Debug\NAudio.xml
+C:\Users\01\Documents\카카오톡 받은 파일\packages\boundball\obj\Debug\boundball.Form1.resources
+C:\Users\01\Documents\카카오톡 받은 파일\packages\boundball\obj\Debug\boundball.Properties.Resources.resources
+C:\Users\01\Documents\카카오톡 받은 파일\packages\boundball\obj\Debug\boundball.csproj.GenerateResource.cache
+C:\Users\01\Documents\카카오톡 받은 파일\packages\boundball\obj\Debug\boundball.csproj.CoreCompileInputs.cache
+C:\Users\01\Documents\카카오톡 받은 파일\packages\boundball\obj\Debug\boundball.csproj.CopyComplete
+C:\Users\01\Documents\카카오톡 받은 파일\packages\boundball\obj\Debug\boundball.exe
+C:\Users\01\Documents\카카오톡 받은 파일\packages\boundball\obj\Debug\boundball.pdb
+C:\Users\01\Documents\카카오톡 받은 파일\packages\boundball\obj\Debug\boundball.csprojAssemblyReference.cache
+C:\Users\BSH\Documents\카카오톡 받은 파일\ggg\boundball\bin\Debug\boundball.exe
+C:\Users\BSH\Documents\카카오톡 받은 파일\ggg\boundball\bin\Debug\boundball.pdb
+C:\Users\BSH\Documents\카카오톡 받은 파일\ggg\boundball\bin\Debug\NAudio.dll
+C:\Users\BSH\Documents\카카오톡 받은 파일\ggg\boundball\bin\Debug\NAudio.xml
+C:\Users\BSH\Documents\카카오톡 받은 파일\ggg\boundball\obj\Debug\boundball.Form1.resources
+C:\Users\BSH\Documents\카카오톡 받은 파일\ggg\boundball\obj\Debug\boundball.Properties.Resources.resources
+C:\Users\BSH\Documents\카카오톡 받은 파일\ggg\boundball\obj\Debug\boundball.csproj.GenerateResource.cache
+C:\Users\BSH\Documents\카카오톡 받은 파일\ggg\boundball\obj\Debug\boundball.csproj.CoreCompileInputs.cache
+C:\Users\BSH\Documents\카카오톡 받은 파일\ggg\boundball\obj\Debug\boundball.csproj.CopyComplete
+C:\Users\BSH\Documents\카카오톡 받은 파일\ggg\boundball\obj\Debug\boundball.exe
+C:\Users\BSH\Documents\카카오톡 받은 파일\ggg\boundball\obj\Debug\boundball.pdb
+C:\Users\BSH\Documents\카카오톡 받은 파일\ggg\boundball\obj\Debug\boundball.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\과제\boundball\boundball\bin\Debug\boundball.exe
+C:\Users\USER\Desktop\과제\boundball\boundball\bin\Debug\boundball.pdb
+C:\Users\USER\Desktop\과제\boundball\boundball\bin\Debug\NAudio.dll
+C:\Users\USER\Desktop\과제\boundball\boundball\bin\Debug\NAudio.xml
+C:\Users\USER\Desktop\과제\boundball\boundball\obj\Debug\boundball.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\과제\boundball\boundball\obj\Debug\boundball.Form1.resources
+C:\Users\USER\Desktop\과제\boundball\boundball\obj\Debug\boundball.Properties.Resources.resources
+C:\Users\USER\Desktop\과제\boundball\boundball\obj\Debug\boundball.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\과제\boundball\boundball\obj\Debug\boundball.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\과제\boundball\boundball\obj\Debug\boundball.csproj.CopyComplete
+C:\Users\USER\Desktop\과제\boundball\boundball\obj\Debug\boundball.exe
+C:\Users\USER\Desktop\과제\boundball\boundball\obj\Debug\boundball.pdb
+C:\Users\BSH\Documents\카카오톡 받은 파일\BO8E80~1\boundball\bin\Debug\boundball.exe
+C:\Users\BSH\Documents\카카오톡 받은 파일\BO8E80~1\boundball\bin\Debug\boundball.pdb
+C:\Users\BSH\Documents\카카오톡 받은 파일\BO8E80~1\boundball\bin\Debug\NAudio.dll
+C:\Users\BSH\Documents\카카오톡 받은 파일\BO8E80~1\boundball\bin\Debug\NAudio.xml
+C:\Users\BSH\Documents\카카오톡 받은 파일\BO8E80~1\boundball\obj\Debug\boundball.csprojResolveAssemblyReference.cache
+C:\Users\BSH\Documents\카카오톡 받은 파일\BO8E80~1\boundball\obj\Debug\boundball.Form1.resources
+C:\Users\BSH\Documents\카카오톡 받은 파일\BO8E80~1\boundball\obj\Debug\boundball.Properties.Resources.resources
+C:\Users\BSH\Documents\카카오톡 받은 파일\BO8E80~1\boundball\obj\Debug\boundball.csproj.GenerateResource.cache
+C:\Users\BSH\Documents\카카오톡 받은 파일\BO8E80~1\boundball\obj\Debug\boundball.csproj.CoreCompileInputs.cache
+C:\Users\BSH\Documents\카카오톡 받은 파일\BO8E80~1\boundball\obj\Debug\boundball.csproj.CopyComplete
+C:\Users\BSH\Documents\카카오톡 받은 파일\BO8E80~1\boundball\obj\Debug\boundball.exe
+C:\Users\BSH\Documents\카카오톡 받은 파일\BO8E80~1\boundball\obj\Debug\boundball.pdb
+C:\Users\USER\Documents\카카오톡 받은 파일\packages\boundball\bin\Debug\boundball.exe
+C:\Users\USER\Documents\카카오톡 받은 파일\packages\boundball\bin\Debug\boundball.pdb
+C:\Users\USER\Documents\카카오톡 받은 파일\packages\boundball\bin\Debug\NAudio.dll
+C:\Users\USER\Documents\카카오톡 받은 파일\packages\boundball\bin\Debug\NAudio.xml
+C:\Users\USER\Documents\카카오톡 받은 파일\packages\boundball\obj\Debug\boundball.csprojAssemblyReference.cache
+C:\Users\USER\Documents\카카오톡 받은 파일\packages\boundball\obj\Debug\boundball.Form1.resources
+C:\Users\USER\Documents\카카오톡 받은 파일\packages\boundball\obj\Debug\boundball.Properties.Resources.resources
+C:\Users\USER\Documents\카카오톡 받은 파일\packages\boundball\obj\Debug\boundball.csproj.GenerateResource.cache
+C:\Users\USER\Documents\카카오톡 받은 파일\packages\boundball\obj\Debug\boundball.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\카카오톡 받은 파일\packages\boundball\obj\Debug\boundball.csproj.CopyComplete
+C:\Users\USER\Documents\카카오톡 받은 파일\packages\boundball\obj\Debug\boundball.exe
+C:\Users\USER\Documents\카카오톡 받은 파일\packages\boundball\obj\Debug\boundball.pdb
+C:\Users\BSH\Documents\카카오톡 받은 파일\최신버~1\boundball\bin\Debug\boundball.exe
+C:\Users\BSH\Documents\카카오톡 받은 파일\최신버~1\boundball\bin\Debug\boundball.pdb
+C:\Users\BSH\Documents\카카오톡 받은 파일\최신버~1\boundball\bin\Debug\NAudio.dll
+C:\Users\BSH\Documents\카카오톡 받은 파일\최신버~1\boundball\bin\Debug\NAudio.xml
+C:\Users\BSH\Documents\카카오톡 받은 파일\최신버~1\boundball\obj\Debug\boundball.csprojResolveAssemblyReference.cache
+C:\Users\BSH\Documents\카카오톡 받은 파일\최신버~1\boundball\obj\Debug\boundball.Form1.resources
+C:\Users\BSH\Documents\카카오톡 받은 파일\최신버~1\boundball\obj\Debug\boundball.Properties.Resources.resources
+C:\Users\BSH\Documents\카카오톡 받은 파일\최신버~1\boundball\obj\Debug\boundball.csproj.GenerateResource.cache
+C:\Users\BSH\Documents\카카오톡 받은 파일\최신버~1\boundball\obj\Debug\boundball.csproj.CoreCompileInputs.cache
+C:\Users\BSH\Documents\카카오톡 받은 파일\최신버~1\boundball\obj\Debug\boundball.csproj.CopyComplete
+C:\Users\BSH\Documents\카카오톡 받은 파일\최신버~1\boundball\obj\Debug\boundball.exe
+C:\Users\BSH\Documents\카카오톡 받은 파일\최신버~1\boundball\obj\Debug\boundball.pdb
+D:\경북대학교\실습파일\201802\BallBound\boundball\bin\Debug\boundball.exe
+D:\경북대학교\실습파일\201802\BallBound\boundball\bin\Debug\boundball.pdb
+D:\경북대학교\실습파일\201802\BallBound\boundball\bin\Debug\NAudio.dll
+D:\경북대학교\실습파일\201802\BallBound\boundball\bin\Debug\NAudio.xml
+D:\경북대학교\실습파일\201802\BallBound\boundball\obj\Debug\boundball.csprojAssemblyReference.cache
+D:\경북대학교\실습파일\201802\BallBound\boundball\obj\Debug\boundball.Form1.resources
+D:\경북대학교\실습파일\201802\BallBound\boundball\obj\Debug\boundball.Properties.Resources.resources
+D:\경북대학교\실습파일\201802\BallBound\boundball\obj\Debug\boundball.csproj.GenerateResource.cache
+D:\경북대학교\실습파일\201802\BallBound\boundball\obj\Debug\boundball.csproj.CoreCompileInputs.cache
+D:\경북대학교\실습파일\201802\BallBound\boundball\obj\Debug\boundball.csproj.CopyComplete
+D:\경북대학교\실습파일\201802\BallBound\boundball\obj\Debug\boundball.exe
+D:\경북대학교\실습파일\201802\BallBound\boundball\obj\Debug\boundball.pdb

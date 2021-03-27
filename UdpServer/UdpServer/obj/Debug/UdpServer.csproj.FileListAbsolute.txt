@@ -1,0 +1,59 @@
+c:\users\bsh\source\repos\UdpServer\UdpServer\bin\Debug\UdpServer.exe
+c:\users\bsh\source\repos\UdpServer\UdpServer\bin\Debug\UdpServer.pdb
+c:\users\bsh\source\repos\UdpServer\UdpServer\obj\Debug\UdpServer.csprojResolveAssemblyReference.cache
+c:\users\bsh\source\repos\UdpServer\UdpServer\obj\Debug\UdpServer.csproj.CoreCompileInputs.cache
+c:\users\bsh\source\repos\UdpServer\UdpServer\obj\Debug\UdpServer.exe
+c:\users\bsh\source\repos\UdpServer\UdpServer\obj\Debug\UdpServer.pdb
+C:\Users\01\Desktop\UdpServer\UdpServer\UdpServer\bin\Debug\UdpServer.exe
+C:\Users\01\Desktop\UdpServer\UdpServer\UdpServer\bin\Debug\UdpServer.pdb
+C:\Users\01\Desktop\UdpServer\UdpServer\UdpServer\obj\Debug\UdpServer.csprojAssemblyReference.cache
+C:\Users\01\Desktop\UdpServer\UdpServer\UdpServer\obj\Debug\UdpServer.csproj.CoreCompileInputs.cache
+C:\Users\01\Desktop\UdpServer\UdpServer\UdpServer\obj\Debug\UdpServer.exe
+C:\Users\01\Desktop\UdpServer\UdpServer\UdpServer\obj\Debug\UdpServer.pdb
+C:\Users\BSH\Documents\카카오톡 받은 파일\BOF93C~1\UdpServer\UdpServer\bin\Debug\UdpServer.exe
+C:\Users\BSH\Documents\카카오톡 받은 파일\BOF93C~1\UdpServer\UdpServer\bin\Debug\UdpServer.pdb
+C:\Users\BSH\Documents\카카오톡 받은 파일\BOF93C~1\UdpServer\UdpServer\obj\Debug\UdpServer.csprojResolveAssemblyReference.cache
+C:\Users\BSH\Documents\카카오톡 받은 파일\BOF93C~1\UdpServer\UdpServer\obj\Debug\UdpServer.csproj.CoreCompileInputs.cache
+C:\Users\BSH\Documents\카카오톡 받은 파일\BOF93C~1\UdpServer\UdpServer\obj\Debug\UdpServer.exe
+C:\Users\BSH\Documents\카카오톡 받은 파일\BOF93C~1\UdpServer\UdpServer\obj\Debug\UdpServer.pdb
+C:\Users\BSH\Documents\카카오톡 받은 파일\UDPSER~1\UdpServer\UdpServer\bin\Debug\UdpServer.exe
+C:\Users\BSH\Documents\카카오톡 받은 파일\UDPSER~1\UdpServer\UdpServer\bin\Debug\UdpServer.pdb
+C:\Users\BSH\Documents\카카오톡 받은 파일\UDPSER~1\UdpServer\UdpServer\obj\Debug\UdpServer.csprojResolveAssemblyReference.cache
+C:\Users\BSH\Documents\카카오톡 받은 파일\UDPSER~1\UdpServer\UdpServer\obj\Debug\UdpServer.csproj.CoreCompileInputs.cache
+C:\Users\BSH\Documents\카카오톡 받은 파일\UDPSER~1\UdpServer\UdpServer\obj\Debug\UdpServer.exe
+C:\Users\BSH\Documents\카카오톡 받은 파일\UDPSER~1\UdpServer\UdpServer\obj\Debug\UdpServer.pdb
+C:\Users\01\Documents\카카오톡 받은 파일\report\UdpServer\UdpServer\bin\Debug\UdpServer.exe
+C:\Users\01\Documents\카카오톡 받은 파일\report\UdpServer\UdpServer\bin\Debug\UdpServer.pdb
+C:\Users\01\Documents\카카오톡 받은 파일\report\UdpServer\UdpServer\obj\Debug\UdpServer.csprojAssemblyReference.cache
+C:\Users\01\Documents\카카오톡 받은 파일\report\UdpServer\UdpServer\obj\Debug\UdpServer.csproj.CoreCompileInputs.cache
+C:\Users\01\Documents\카카오톡 받은 파일\report\UdpServer\UdpServer\obj\Debug\UdpServer.exe
+C:\Users\01\Documents\카카오톡 받은 파일\report\UdpServer\UdpServer\obj\Debug\UdpServer.pdb
+C:\Users\BSH\Documents\카카오톡 받은 파일\UdpServer\UdpServer\bin\Debug\UdpServer.exe
+C:\Users\BSH\Documents\카카오톡 받은 파일\UdpServer\UdpServer\bin\Debug\UdpServer.pdb
+C:\Users\BSH\Documents\카카오톡 받은 파일\UdpServer\UdpServer\obj\Debug\UdpServer.csproj.CoreCompileInputs.cache
+C:\Users\BSH\Documents\카카오톡 받은 파일\UdpServer\UdpServer\obj\Debug\UdpServer.exe
+C:\Users\BSH\Documents\카카오톡 받은 파일\UdpServer\UdpServer\obj\Debug\UdpServer.pdb
+C:\Users\BSH\Documents\카카오톡 받은 파일\UdpServer\UdpServer\obj\Debug\UdpServer.csprojResolveAssemblyReference.cache
+C:\Users\BSH\Documents\카카오톡 받은 파일\29일최종\UdpServer\UdpServer\bin\Debug\UdpServer.exe
+C:\Users\BSH\Documents\카카오톡 받은 파일\29일최종\UdpServer\UdpServer\bin\Debug\UdpServer.pdb
+C:\Users\BSH\Documents\카카오톡 받은 파일\29일최종\UdpServer\UdpServer\obj\Debug\UdpServer.csproj.CoreCompileInputs.cache
+C:\Users\BSH\Documents\카카오톡 받은 파일\29일최종\UdpServer\UdpServer\obj\Debug\UdpServer.exe
+C:\Users\BSH\Documents\카카오톡 받은 파일\29일최종\UdpServer\UdpServer\obj\Debug\UdpServer.pdb
+C:\Users\BSH\Documents\카카오톡 받은 파일\아이템~1\아이템추가(부스터[사운드 필요]\boundball_v2.2\UdpServer\UdpServer\bin\Debug\UdpServer.exe
+C:\Users\BSH\Documents\카카오톡 받은 파일\아이템~1\아이템추가(부스터[사운드 필요]\boundball_v2.2\UdpServer\UdpServer\bin\Debug\UdpServer.pdb
+C:\Users\BSH\Documents\카카오톡 받은 파일\아이템~1\아이템추가(부스터[사운드 필요]\boundball_v2.2\UdpServer\UdpServer\obj\Debug\UdpServer.csprojResolveAssemblyReference.cache
+C:\Users\BSH\Documents\카카오톡 받은 파일\아이템~1\아이템추가(부스터[사운드 필요]\boundball_v2.2\UdpServer\UdpServer\obj\Debug\UdpServer.csproj.CoreCompileInputs.cache
+C:\Users\BSH\Documents\카카오톡 받은 파일\아이템~1\아이템추가(부스터[사운드 필요]\boundball_v2.2\UdpServer\UdpServer\obj\Debug\UdpServer.exe
+C:\Users\BSH\Documents\카카오톡 받은 파일\아이템~1\아이템추가(부스터[사운드 필요]\boundball_v2.2\UdpServer\UdpServer\obj\Debug\UdpServer.pdb
+C:\Users\01\Documents\카카오톡 받은 파일\packages\UdpServer\UdpServer\bin\Debug\UdpServer.exe
+C:\Users\01\Documents\카카오톡 받은 파일\packages\UdpServer\UdpServer\bin\Debug\UdpServer.pdb
+C:\Users\01\Documents\카카오톡 받은 파일\packages\UdpServer\UdpServer\obj\Debug\UdpServer.csprojAssemblyReference.cache
+C:\Users\01\Documents\카카오톡 받은 파일\packages\UdpServer\UdpServer\obj\Debug\UdpServer.csproj.CoreCompileInputs.cache
+C:\Users\01\Documents\카카오톡 받은 파일\packages\UdpServer\UdpServer\obj\Debug\UdpServer.exe
+C:\Users\01\Documents\카카오톡 받은 파일\packages\UdpServer\UdpServer\obj\Debug\UdpServer.pdb
+C:\Users\BSH\Documents\카카오톡 받은 파일\최신버~1\UdpServer\UdpServer\bin\Debug\UdpServer.exe
+C:\Users\BSH\Documents\카카오톡 받은 파일\최신버~1\UdpServer\UdpServer\bin\Debug\UdpServer.pdb
+C:\Users\BSH\Documents\카카오톡 받은 파일\최신버~1\UdpServer\UdpServer\obj\Debug\UdpServer.csprojResolveAssemblyReference.cache
+C:\Users\BSH\Documents\카카오톡 받은 파일\최신버~1\UdpServer\UdpServer\obj\Debug\UdpServer.csproj.CoreCompileInputs.cache
+C:\Users\BSH\Documents\카카오톡 받은 파일\최신버~1\UdpServer\UdpServer\obj\Debug\UdpServer.exe
+C:\Users\BSH\Documents\카카오톡 받은 파일\최신버~1\UdpServer\UdpServer\obj\Debug\UdpServer.pdb
